@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0e47216cecea7d34d858eae5a96569bd
+timeCreated: 1521492550
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Materhorn NF
+  fontNames:
+  - Materhorn NF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0aea2a10d96671341a42c9c1230b3ecc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
